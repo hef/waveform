@@ -1,4 +1,4 @@
-BCD 0	BCD 1	BCD 2	BCD 3	bit 0	bit 1	bit 2	bit 3	Error
+BCD0	BCD1	BCD2	BCD3	bit0	bit1	bit2	bit3	Error
 0	0	0	0	0	0	0	0	0
 1	0	0	0	1	0	0	0	0
 1	1	0	0	1	1	0	0	1

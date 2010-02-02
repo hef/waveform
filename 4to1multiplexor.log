@@ -1,4 +1,4 @@
-I0	I1	I2	I3	Output(680,320)	S0	s1
+Input0	Input1	Input2	Input3	Output	S0	s1
 129	66	36	24	24	1	1
 129	66	36	24	36	1	0
 129	66	36	24	129	0	0

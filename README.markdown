@@ -1,11 +1,11 @@
-waveform
+Waveform
 ========
 
-waveform Generator for logisim logs
+Waveform generator for logisim logs.
 
 purpose:
 --------
-CS266 at UIC has most students use [hades](http://tams-www.informatik.uni-hamburg.de/applets/hades/html/) to complete the projects.  The long and short of it is that The software kind of sucks[1].
+CS266 at UIC has most students use [hades](http://tams-www.informatik.uni-hamburg.de/applets/hades/html/) to complete the projects.  The long and short of it is that The software kind of sucks **.
 
 I decideded to use [logisim](http://ozark.hendrix.edu/~burch/logisim/) insead.
 
@@ -15,7 +15,7 @@ This project is my attempt to make up for that shortcoming.
 
 usage:
 ------
-*  In logisim, got Simulate >> logging...
+*  In logisim, go to Simulate >> logging...
 *  In selection, add whatever inputs, output or probes you want.  The order will affect the order they come out in the plot.
 *  click the file tab >> select, and save the log file somewhere.
 finally, run
@@ -24,4 +24,4 @@ finally, run
 
 The svg image should open in firefox for viewing.  It should scale well also.
 
-[1]: My professor is fond of saying that you will hate whatever one you choose.
+** My professor is fond of saying that you will hate whatever one you choose.

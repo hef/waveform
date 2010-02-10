@@ -24,4 +24,4 @@ finally, run
 
 The svg image should open in firefox for viewing.  It should scale well also.
 
-** My professor is fond of saying that you will hate whatever one you choose.
+** My professor is fond of saying that you will hate whatever software [package you use.

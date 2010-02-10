@@ -5,7 +5,7 @@ waveform Generator for logisim logs
 
 purpose:
 --------
-CS266 at UIC has most students use [hades](http://tams-www.informatik.uni-hamburg.de/applets/hades/html/) to complete the projects.  The long and short of it is that The software kind of sucks.
+CS266 at UIC has most students use [hades](http://tams-www.informatik.uni-hamburg.de/applets/hades/html/) to complete the projects.  The long and short of it is that The software kind of sucks[1].
 
 I decideded to use [logisim](http://ozark.hendrix.edu/~burch/logisim/) insead.
 
@@ -23,3 +23,5 @@ finally, run
 `./waveform.py mylogisimloggile.log > myimage.svg`
 
 The svg image should open in firefox for viewing.  It should scale well also.
+
+[1]: My professor is fond of saying that you will hate whatever one you choose.

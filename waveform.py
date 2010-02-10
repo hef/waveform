@@ -12,7 +12,7 @@ print options
 print options.input
 formatString = {
 	'svg': "svg enhanced size 1000 1000 fname \"Times\" fsize 10",
-	'epslatex': "epslatex"
+	'epslatex': "epslatex size 12cm,12cm font \"ptm\" 8"
 }
 
 #calculate number of plots to make
